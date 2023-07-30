@@ -1,2 +1,4 @@
-# cognitux
-Artificial Intelligence
+# Clockworks (deprecated)
+
+Clock-dependent values and dynamic pointers.
+
