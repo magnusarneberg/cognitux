@@ -1,4 +1,4 @@
 # Clockworks (deprecated)
 
-Clock-dependent values and dynamic pointers.
+Clock-dependent values and pointer manipulations.
 
