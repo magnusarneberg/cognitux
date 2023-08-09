@@ -1,4 +1,4 @@
 # Clockworks (deprecated)
 
-Clock-dependent values and pointer manipulations.
+Clock-dependent values and pointer-manipulations.
 
