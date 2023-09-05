@@ -2,4 +2,4 @@
 
 Clock-dependent values and reference manipulations.
 
-Even a broken clock is right [1, 3] a day.
+Even a broken clock can be right once or thrice.
