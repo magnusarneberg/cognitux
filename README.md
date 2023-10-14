@@ -1,5 +1,3 @@
 # Clockworks (deprecated)
 
-Clock-dependent values and reference manipulations.
-
-Even a broken clock is right twice a day.
+Clock-dependent variables and reference manipulations.
